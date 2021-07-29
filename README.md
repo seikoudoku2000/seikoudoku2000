@@ -10,6 +10,7 @@ https://github.com/cw-tomita
 - Speaker Deck: https://speakerdeck.com/seikoudoku2000
 - Slideshare: https://www.slideshare.net/seikoudoku2000/presentations
 - Blog(current company): https://creators-note.chatwork.com/archive/author/cw-tomita
+  - (Some English articles are translations of other member's Japanese article)  
 - Blog(personal): https://seikoudoku2000.hatenablog.com/
 - Twitter: https://twitter.com/seikoudoku2000
 
