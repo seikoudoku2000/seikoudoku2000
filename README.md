@@ -1,6 +1,6 @@
 # Yosuke Tomita
 
-※ In the current company, using different github account  
+※ In the previous company, using different github account  
 https://github.com/cw-tomita
 
 ## Links
@@ -9,13 +9,14 @@ https://github.com/cw-tomita
 - Qiita: https://qiita.com/seikoudoku2000
 - Speaker Deck: https://speakerdeck.com/seikoudoku2000
 - Slideshare: https://www.slideshare.net/seikoudoku2000/presentations
-- Blog(current company): https://creators-note.chatwork.com/archive/author/cw-tomita
+- Blog(previous company): https://creators-note.chatwork.com/archive/author/cw-tomita
   - (Some English articles are translations of other member's Japanese article)  
 - Blog(personal): https://seikoudoku2000.hatenablog.com/
 - Twitter: https://twitter.com/seikoudoku2000
 
 ## Presentations etc..
-
+- 2022.03.08 Rust完全に理解した(嘘) 
+  - Reference: https://qiita.com/seikoudoku2000/items/28c5c6b09dcaea1744dc
 - 2018.10 第１３回 AWS Startup Tech Meetup
   - Blog: https://aws.amazon.com/jp/blogs/startup/aws-startup-tech-meetup-013/
   - Slide is not published
