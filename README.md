@@ -16,6 +16,7 @@ https://github.com/cw-tomita
 
 ## Presentations etc..
 - 2022.03.08 Rust完全に理解した(嘘) 
+  - Article: https://logmi.jp/tech/articles/326357
   - Reference: https://qiita.com/seikoudoku2000/items/28c5c6b09dcaea1744dc
 - 2018.10 第１３回 AWS Startup Tech Meetup
   - Blog: https://aws.amazon.com/jp/blogs/startup/aws-startup-tech-meetup-013/
